@@ -1,4 +1,4 @@
-<h1>!!Personal Expense Tracker!!<h1/>
+!!Personal Expense Tracker!!
 1. Add Expense 
 2. View Expenses 
 3. Show Summary/ Total Amount Spent
